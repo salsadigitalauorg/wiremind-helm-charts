@@ -3,7 +3,7 @@ annotations:
 apiVersion: v2
 name: argo-crds
 version: 1.0.0
-appVersion: "1.0.0"
+appVersion: 1.0.0
 description: Manage argo CRDs
 keywords:
   - argo
