@@ -1,6 +1,6 @@
 apiVersion: v2
 name: istio-operator
-version: 1.12.0
+version: 1.12.8
 appVersion: "1.12.0"
 description: Helm chart for deploying Istio operator. This is a carbon-copy of the chart found in https://github.com/istio/istio, with container image versions pinned
 keywords:
